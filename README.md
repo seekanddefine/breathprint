@@ -1,6 +1,6 @@
 # Breathprint
 
-\*WIP\*
+_WIP_
 
 Capture the beauty of breath as a signature work of art. 
 
